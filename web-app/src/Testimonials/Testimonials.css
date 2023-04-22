@@ -1,0 +1,19 @@
+.carousel{
+    margin-top: 150px;
+    animation: backInDown;
+    animation-duration: 2s;
+}
+.carousel-img{
+    height: 200px;
+    width: 200px;
+}
+.carousel-head{
+    font-size: 40px;
+    font-family: 'Lato',sans-serif;
+    color: azure;
+}
+.carousel-tag{
+    font-family: 'open-sans',sans-serif;
+    font-size: 20px;
+    color: rgb(191, 195, 195);
+}

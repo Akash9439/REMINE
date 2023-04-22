@@ -1,0 +1,23 @@
+.faq-head{
+    color: azure;
+    font-family: 'Lato', sans-serif;
+    font-size: 70px;
+    animation: backInDown;
+    animation-duration: 2s;
+    margin-top: 40px;
+}
+.title{
+    text-align: center;
+    font-size: 25px;
+    color: azure;
+    font-family: 'open-sans',sans-serif;
+
+}
+.answer{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(214, 233, 233);
+}
+.faq-list{
+    animation: backInUp;
+    animation-duration: 2s;
+}

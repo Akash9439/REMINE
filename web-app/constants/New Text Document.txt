@@ -1,0 +1,29 @@
+Header: A header component that includes a logo, navigation menu, and any relevant calls-to-action (such as "Find a Recycling Center").
+
+Hero Banner: A hero banner component that features a compelling image or video, along with a tagline and a call-to-action button (such as "Learn More").
+
+About Us: An about us section that describes the mission and values of the organization. This could include information about the impact of e-waste on the environment and the importance of responsible recycling.
+
+Services: A services section that outlines the various recycling services that the organization offers, such as drop-off locations, pickup services, and on-site recycling for businesses.
+
+FAQs: A frequently asked questions section that addresses common questions about e-waste recycling, such as what items can be recycled, how to prepare items for recycling, and what happens to the materials after they are collected.
+
+Testimonials: A testimonials section that features quotes or stories from satisfied customers or partners, highlighting the impact and benefits of the organization's recycling services.
+
+Call-to-Action: A prominent call-to-action button or form that encourages visitors to take action, such as finding a recycling center, scheduling a pickup, or signing up for a newsletter.
+
+Footer: A footer component that includes links to important pages, such as contact information, privacy policy, and terms of service. You could also include social media links and other relevant information.
+
+
+Tools:-
+1.https://animate.style/ for animation
+2.https://circumicons.com/ for icons
+3.https://uicolors.app/create for colors
+4.https://www.humaaans.com/ for human icons
+5.https://lottiefiles.com/animation/vector for animated vectors
+6.https://icons8.com/illustrations for 3d vector animate
+7.https://feathericons.com/ for icons
+8.https://loading.io/animation/icon/ for loading animation
+
+
+Remine India is a recognized startup working on recycling e-Waste and Li Batteries. As an assignment develop a home page for our website which provides required information to the visitors. You are free to choose your own template and structure of the landing page.

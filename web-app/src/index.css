@@ -1,0 +1,6 @@
+body{
+    background: rgb(43,38,121);
+background: radial-gradient(circle, rgba(43,38,121,0.8548669467787114) 0%, rgba(18,139,46,1) 0%, rgba(28,53,58,1) 100%);
+scroll-behavior: smooth;
+animation: gradient 15s ease infinite;
+}
